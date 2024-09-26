@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Indore, Madhya-Pradesh"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "9669885053"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "engi.rajkumarmist@gmail.com"
+    }
+  ]
